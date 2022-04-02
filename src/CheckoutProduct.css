@@ -1,0 +1,42 @@
+.CheckoutProduct
+{
+  display: flex;
+  margin: 20px 0;
+}
+
+.CheckoutProduct_info
+{
+  padding-left:20px;
+}
+
+.CheckoutProduct_info > button
+{
+  border: 1px solid;
+  background: rgb(219, 158, 45);
+  margin-top: 10px;
+  border-color: rgb(219, 158, 45);
+  color: black;
+  padding: 5px 10px;
+}
+
+.CheckoutProduct_info > button:hover
+{
+  cursor: pointer;
+}
+.CheckoutProduct_image
+{
+  object-fit: contain;
+  width: 220px;
+  height: 200px;
+}
+
+.CheckoutProduct_rating
+{
+  display: flex;
+}
+
+.CheckoutProduct_title
+{
+  font-size:17px;
+  font-weight: 700;;
+}
