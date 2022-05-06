@@ -1,10 +1,10 @@
 .product {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin: 10px;
+  margin: 15px 10px;
   padding: 20px;
   width: 100%;
+  align-items: center;
 
   max-height: 400px;
   background-color: #f8ecde;
@@ -23,21 +23,24 @@
   margin-bottom: 15px;
 }
 
-.product > button {
+
+.button {
   background-color: rgb(219, 158, 45);
   border: 1px solid;
-  margin-top: 10px;
-  border-color: rgb(219, 158, 45);
+  margin-left: 20px;
+  border-radius: 3px;
   color: black;
-  padding: 3px 10px;
+  padding: 10px 15px;
+  border: 1px solid wheat;
+  height: 35px;
 }
-.product > button:hover
+.button:hover
 {
   background-color: orange;
   cursor: pointer;
 }
 
-.product_price
+.product_size
 {
     margin-top: 5px;
 }
@@ -47,6 +50,26 @@
     height: 100px;
     margin-bottom: 15px;
 
+}
+
+.dislike,.like
+{
+  width: 25px;
+  margin-top: 10px;
+  margin-left: 10px;
+  
+  
+}
+.like:hover,.dislike:hover
+{
+  cursor: pointer;
+  color: wheat;
+}
+
+.btn
+{
+  position: relative;
+  margin-right: 0px;
 }
 
 
@@ -84,7 +107,7 @@
   color: #111;
 }
 
-.product__price {
+.product__size{
   margin-top: 5px;
 }
 

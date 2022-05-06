@@ -9,5 +9,35 @@
 
 .home_row
 {
-    margin:5px 0;
+    margin:15px 0;
 }
+
+.cuoTemplate
+{
+    width: 70%;
+    background-color: rgb(133, 80, 80);
+    position:relative;
+    margin: 10px 0px;
+    
+}
+
+.template
+{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+
+.ctgr
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    width: 90%;
+    position: relative;
+    left: 5%;
+}
+
+

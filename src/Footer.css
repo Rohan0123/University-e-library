@@ -1,0 +1,49 @@
+.footer
+{ 
+      display: flex;
+    justify-content: center;
+    align-self: center;
+    width: 70%;
+    background-color:rgb(133, 80, 80) ;
+      flex-direction: row;
+      position: relative;
+      bottom: 0;
+      left: 0;
+      margin-top: 5px;
+      height: 350px;
+      width: 100%;
+      display: flex;
+      background-color: rgb(110, 79, 79);
+      z-index: 100;
+
+}
+
+.address
+{
+    position: absolute;
+    left: 9%;
+    top: 15%;
+    margin-left:1%;
+    color: wheat;
+    font-size: 20px;
+}
+
+.map
+{
+    margin-left: 10%;
+    position: absolute;
+    right: 9%;
+    top: 10%;
+    width: 45%;
+    height: 60%;
+}
+
+.copyRight
+{
+    position: relative;
+    left: 10%;
+    bottom: 0;
+    margin-top: 10px;
+    color: wheat;
+    font-size: 20px;
+}

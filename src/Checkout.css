@@ -1,19 +1,22 @@
 .checkout
 {
     display: flex;
-    padding:20px;
+    flex-direction: column;
     background-color: #f8ecde;
     height: max-content;
 }
 
 .checkout_left
 {
+    padding:20px;
     width:65%;
 }
 
 .checkout_ad
 {
+    padding:20px;
     width: 100%;
+    background-color: rgb(133, 80, 80);
 }
 
 .checkout_title

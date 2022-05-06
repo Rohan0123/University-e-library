@@ -1,17 +1,17 @@
 .home
 {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    max-width: 1500px;
-    
+    height: 100%;
 }
 
 .home_row
 {
+    width: 100%;
     display: flex;
-    z-index: 1;
     margin-left: 5px;
     margin-right:5px;
 }
@@ -21,6 +21,93 @@
     width: 100%;
     z-index: 1;
     margin-bottom:10px;
-    mask: linear-gradiant(to botton, );
+    background-color:rgb(133, 80, 80);
+}
 
+.newArrival
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    height: 530px;
+    width: 90%;
+}
+
+
+.newArrival > p
+{
+    text-align: left;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-left: 10px;
+
+}
+
+.ebook{
+    text-align: left;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-left: 10px;
+
+}
+.viewMore
+{
+    position: absolute;
+    left:28.45%;
+    bottom: 28%;
+    padding: 1% 2%;
+    border-radius: 8px;
+    border: 2px solid black;
+    background-color: #f8ecde;
+    font-size: 15px;
+    font-weight: 600;
+}
+.img
+{
+    max-width: 1500px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+}
+.viewMore:hover{
+    cursor: pointer;
+}
+
+.books
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.copyRight
+{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    padding: 15px 0px;
+    margin-top: 5px;
+    color: wheat;
+    background-color: rgb(110, 79, 79);
+    width: 100%;
+    
+}
+
+.copyRight > h3
+{
+    margin-left: 10%;
+    font-weight: 400;
+    font-size: 15px;
 }

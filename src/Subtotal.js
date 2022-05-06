@@ -13,10 +13,10 @@ function Subtotal() {
           <>
             <p>
               {/* Part of the homework */}
-              Subtotal ({basket?.length} items): <strong>{value}</strong>
+              Subtotal ({basket?.length} Items):<br/> <strong>{value} MB</strong>
             </p>
             <small className="subtotal_gift">
-              <input type="checkbox" /> Place order as a zip file.
+              <input type="checkbox" /> Download file as doc.
             </small>
           </>
         )}
@@ -24,9 +24,10 @@ function Subtotal() {
         value={getBasketTotal(basket)} // Part of the homework
         displayType={"text"}
         thousandSeparator={true}
-        prefix={"₹"}
+        prefix={"File Size: "}
+        postfix={"MB"}
       />
-        <button>Download Your Book</button>
+      
     </div>
   )
 }

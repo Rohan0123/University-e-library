@@ -7,6 +7,12 @@
   position: sticky;
   top: 0;
   z-index: 100;
+  width: 100%;
+}
+
+.header > Link 
+{
+  text-decoration:line-through;
 }
 
 .header_logo
@@ -14,7 +20,7 @@
   width: 75px;
   object-fit:contain;
   margin: 0 20px;
-  margin-top: 0.5px;
+  margin-top: 4px;
 }
 
 .header_search 
@@ -26,7 +32,11 @@
   border-radius:2.5px;
   border-color: wheat;
   margin-left: 30px;
+  position: static;
+  left: 20%;
 }
+
+
 
 .header_searchIcon
 {
@@ -53,6 +63,7 @@
 {
   display: flex;
   justify-content: space-evenly;
+  position: relative;
 }
 
 .header_option
@@ -63,6 +74,7 @@
   margin-right: 10px;
   color: wheat;
   align-items: center;
+  text-decoration: none;
 }
 
 .header__optionBasket
@@ -70,15 +82,15 @@
   display: flex;
     z-index: 1;
   color: wheat;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-left: 10px;
 }
 
 
 .fheader_basketCount 
 {
-  margin-top: 3px;
-  margin-left: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
   margin-right: 0px;
 }
  
