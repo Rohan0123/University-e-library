@@ -32,6 +32,7 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/418JjPklDdL._SX345_BO1,204,203,200_.jpg"
               size={54}
               rating={5}
+              pdf="https://drive.google.com/file/d/1EAqhb8IGsKhLUw0zKu8wTD926k4UwmBK/view?usp=sharing"
             />
 
             <Product
@@ -40,6 +41,7 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/51CabZPhS4L._SX399_BO1,204,203,200_.jpg"
               size={43}
               rating={4}
+              pdf="https://drive.google.com/file/d/1-94t8E8vKY4zR_d-kZ0fNMQb9SaKT2s0/view?usp=sharing"
             />
 
             <Product
@@ -48,14 +50,16 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/41VuaUeEYkL._SX313_BO1,204,203,200_.jpg"
               size={53}
               rating={4}
+              pdf="https://drive.google.com/file/d/16j3qHQMmWm3m6wTbPXGm6aCM2eDbvFgx/view?usp=sharing"
             />
 
             <Product
               id="8"
-              title="Constitutional Law of india"
-              image="https://images-na.ssl-images-amazon.com/images/I/41M+8Z82CIL._SX320_BO1,204,203,200_.jpg"
+              title="Biological Anthropology"
+              image="https://images-na.ssl-images-amazon.com/images/I/51VCjeQVkOL._SX383_BO1,204,203,200_.jpg"
               size={35}
               rating={5}
+              pdf="https://drive.google.com/file/d/1qlvtGit9fcc86Tmx8Ty1udUGj-QR1Uq0/view?usp=sharing"
             />
           </div>
 
@@ -172,6 +176,7 @@ function Category() {
               image="https://m.media-amazon.com/images/P/B008OUUVM0.01._SCLZZZZZZZ_SX500_.jpg"
               size={52}
               rating={5}
+              pdf="https://drive.google.com/file/d/1_jkcDoQtEuXyus3rTEfLBVIk3h1j9-4N/view?usp=sharing"
             />
 
             <Product
@@ -180,6 +185,7 @@ function Category() {
               image="https://m.media-amazon.com/images/P/B01LAE1CXI.01._SCLZZZZZZZ_SX500_.jpg"
               size={344}
               rating={4}
+              pdf="https://drive.google.com/file/d/1w7Ucpav0EsTtsk3VwQjVUydelVrQRvMS/view?usp=sharing"
             />
 
             <Product
@@ -188,6 +194,7 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/918hM+7TOxL.jpg"
               size={80}
               rating={4}
+              pdf="https://drive.google.com/file/d/1IY-3nRSEAb0Csr4oW00lbnSpmDwqlvJY/view?usp=sharing"
             />
 
             <Product
@@ -196,6 +203,7 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/41fAwsPAjFL._SX390_BO1,204,203,200_.jpg"
               size={64}
               rating={5}
+              pdf="https://drive.google.com/file/d/12_5bH8xT7PE5QwJGWvfb2m5CT1gQN0NZ/view?usp=sharing"
             />
           </div>
 
@@ -312,6 +320,7 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/41xQAsVthjS._SX331_BO1,204,203,200_.jpg"
               size={65}
               rating={5}
+              pdf="https://drive.google.com/file/d/1A2rFeQWvtP-N9HPtfW7p75qO0Kr3R1-R/view?usp=sharing"
             />
 
             <Product
@@ -320,6 +329,7 @@ function Category() {
               image="https://m.media-amazon.com/images/P/B08X6M8DF4.01._SCLZZZZZZZ_SX500_.jpg"
               size={67}
               rating={4}
+              pdf="https://drive.google.com/file/d/1SqK7va9dJtvsgtznEWO2eENCFrqp59lV/view?usp=sharing"
             />
 
             <Product
@@ -328,6 +338,7 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/51URPCHNSBL._SX379_BO1,204,203,200_.jpg"
               size={80}
               rating={4}
+              pdf="https://drive.google.com/file/d/1wDbHTzHhO-7iQtjVKQzgOK4S2HHMu686/view?usp=sharing"
             />
 
             <Product
@@ -336,6 +347,7 @@ function Category() {
               image="https://images-na.ssl-images-amazon.com/images/I/91DnVLRObbL.jpg"
               size={64}
               rating={5}
+              pdf="https://drive.google.com/file/d/1y_YHFeOFKMQCoNYxtSY1J1WyTlc8MGuL/view?usp=sharing"
             />
           </div>
 
@@ -452,7 +464,7 @@ function Category() {
               image="https://m.media-amazon.com/images/I/41IlZdU0AzL._BG0,0,0,0_FMpng_AC_SY320_SX320_.jpg"
               size={659}
               rating={5}
-              pdf="https://drive.google.com/file/d/1fJF391_aqUX4ZK89_uZRmGKA15Wn4krH/view?usp=sharing"
+              pdf="https://drive.google.com/file/d/1srgrmwpIXYJyFPJJqURDXMHdFHrdfFBx/view?usp=sharing"
 
             />
 
